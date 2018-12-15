@@ -9,6 +9,7 @@ Contents:
 		WDIFootNote
 		WDISeries
 		WDISeries-Time
+	Link to the Data: https://drive.google.com/file/d/1VqVG5RJVb44bfl8WKlQk_VRvo6zdrnkK/view?usp=sharing
 	Two source code files:
 		Part 1 - Data Processing and Cleaning 
 		Part 2 - Rshiny Web Application
