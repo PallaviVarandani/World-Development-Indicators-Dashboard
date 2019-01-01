@@ -13,6 +13,15 @@ Contents:
 	Two source code files:
 		Part 1 - Data Processing and Cleaning 
 		Part 2 - Rshiny Web Application
+	Final Presentation file:
+		FINAL BA PROJECT - WDA.pptx
+	Zip File for Asian Countries Analysis:
+		Development Analysis of Asian Countries.zip (Use Similar steps as given below to run this code)
+	Contents of ZIp File:
+		PreProcessing.R
+		Analysis of Development for Asian Countries - Book.pdf
+		Analysis of Development for Asian Countries.R
+		ANALYSIS OF DEVELOPMENT FOR ASIAN COUNTRIES - Chart.pdf
 
 
 Steps to run the Application:
